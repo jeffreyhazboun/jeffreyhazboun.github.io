@@ -1,3 +1,6 @@
+
+This website is based on a template from HTML5 UP:
+
 Twenty by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -10,12 +13,6 @@ few have been single page affairs, I decided to go with something a bit more con
 and threw in four extra page layouts. Beyond that, it's the usual drill: fully responsive,
 built on HTML5/CSS3, and CCA licensed like all my other stuff. Sass sources are also
 included for those of you into that sort of thing (entirely optional).
-
-Special thanks to Michael Domaradzki (md.photomerchant.net) for allowing me to use
-his excellent photos in Twenty's demo*.
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Michael's work without his explicit permission!)
 
 AJ
 aj@lkn.io | @ajlkn
